@@ -86,6 +86,10 @@
     "back": "العودة إلى MESME"
   },
   "footer": {
-    "copyright": "© {year} MESME"
+    "copyright": "© {year} MESME",
+    "social": "وسائل التواصل",
+    "instagram": "إنستغرام",
+    "tiktok": "تيك توك",
+    "socialPending": "ستتوفر روابط الحسابات قريبًا"
   }
 }
