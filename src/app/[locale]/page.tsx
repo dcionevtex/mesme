@@ -60,7 +60,7 @@ export default async function Home({params}: Props) {
                     aria-labelledby={`${slug}-name ${slug}-action`}>
                     <div className="product-image visual">
                       <Image src={product.image} alt={t(`collection.${product.altKey}`)}
-                        fill sizes="(max-width: 699px) 82vw, (max-width: 1250px) 42vw, 520px" />
+                        fill sizes="(max-width: 699px) 82vw, (max-width: 1460px) 42vw, 606px" />
                     </div>
                     <div className="product-caption">
                       <div>
