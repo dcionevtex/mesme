@@ -67,7 +67,7 @@ export async function SiteFooter({locale, route = ''}: {locale: Locale; route?: 
   const year = new Date().getUTCFullYear();
 
   return (
-    <footer className="site-footer">
+    <footer className="site-footer" id="footer">
       <div className="shell">
         <div className="footer-main">
           <Wordmark locale={locale} label={t('home')} className="footer-mark" />
@@ -76,6 +76,18 @@ export async function SiteFooter({locale, route = ''}: {locale: Locale; route?: 
             <Link href={concierge.href}>{concierge.label}</Link>
             <Link href={localePath(locale, '#world')}>{t('world')}</Link>
           </nav>
+          <div className="footer-social">
+            <p className="eyebrow">{footer('social')}</p>
+            <ul>
+              <li>
+                <Image src="/media/social/instagram.svg" alt={footer('instagram')} width={20} height={20} unoptimized />
+              </li>
+              <li>
+                <Image src="/media/social/tiktok.svg" alt={footer('tiktok')} width={20} height={20} unoptimized />
+              </li>
+            </ul>
+            <p className="footer-social-note">{footer('socialPending')}</p>
+          </div>
         </div>
         <div className="footer-bottom">
           <span>{footer('copyright', {year})}</span>

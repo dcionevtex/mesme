@@ -683,6 +683,24 @@ h2 {
   grid-template-columns: repeat(2, minmax(0, max-content));
 }
 
+.footer-social {
+  display: grid;
+  gap: 0.55rem;
+  padding-block-start: 0.65rem;
+}
+
+.footer-social ul {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.15rem;
+}
+
+.footer-social-note {
+  color: var(--color-muted);
+  font-size: 0.8125rem;
+}
+
 .footer-bottom {
   display: flex;
   flex-wrap: wrap;

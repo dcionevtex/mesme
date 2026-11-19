@@ -86,6 +86,10 @@
     "back": "Back to MESME"
   },
   "footer": {
-    "copyright": "© {year} MESME"
+    "copyright": "© {year} MESME",
+    "social": "Social",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "socialPending": "Profile links coming soon"
   }
 }
