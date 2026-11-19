@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "home": "MESME home",
+    "main": "Main navigation",
+    "footer": "Footer navigation",
+    "collection": "Collection",
+    "craftsmanship": "Craftsmanship",
+    "bespoke": "Bespoke",
+    "fragrance": "Fragrance",
+    "concierge": "Private Concierge",
+    "world": "The World of MESME",
+    "privacy": "Privacy",
+    "language": "Language",
+    "menu": "Menu",
+    "close": "Close",
+    "skip": "Skip to content"
+  },
+  "seo": {
+    "title": "MESME | Diamond Bear Car Fragrance Jewellery",
+    "description": "Discover the MESME Diamond Bear, car fragrance jewellery in Gold and Black editions. Explore the craftsmanship, Origin No. 1 and private consultation."
+  },
+  "hero": {
+    "category": "Car fragrance jewellery",
+    "titleStart": "The Diamond",
+    "titleEnd": "Bear.",
+    "copy": "A signature scent carried in gold and diamonds, made for the journey.",
+    "cta": "Explore the collection",
+    "play": "Play film",
+    "pause": "Pause film"
+  },
+  "collection": {
+    "label": "The collection",
+    "title": "Two expressions.",
+    "copy": "Gold and Black. Two distinct expressions of MESME’s car fragrance jewellery.",
+    "view": "Discover the piece",
+    "goldAlt": "Front view of the Gold Diamond Bear against black",
+    "blackAlt": "Front view of the Black Diamond Bear against black",
+    "goldEdition": "Gold edition",
+    "blackEdition": "Black edition",
+    "goldIntro": "Discover the Gold Diamond Bear, an expression of MESME car fragrance jewellery designed to carry a signature scent.",
+    "blackIntro": "Discover the Black Diamond Bear, an expression of MESME car fragrance jewellery designed to carry a signature scent.",
+    "category": "Car fragrance jewellery",
+    "enquire": "Enquire about this piece",
+    "back": "Back to the collection"
+  },
+  "craft": {
+    "label": "Craftsmanship",
+    "title": "The art of detail.",
+    "copy": "Handcrafted by European jewellers, the Diamond Bear brings the precision of jewellery making to a fragrance object for the car.",
+    "gold": "24-karat gold",
+    "diamonds": "61 natural diamonds",
+    "alt": "Macro photograph of a gold Diamond Bear ear set with diamonds"
+  },
+  "bespoke": {
+    "label": "Bespoke",
+    "title": "Make it yours.",
+    "copy": "Explore personalisation for your Diamond Bear through a private consultation with MESME.",
+    "cta": "Request a Private Consultation",
+    "alt": "A hand holds the Gold Diamond Bear inside a car"
+  },
+  "fragrance": {
+    "label": "Fragrance",
+    "name": "Origin No. 1",
+    "copy": "The Diamond Bear carries its signature fragrance in a replaceable sachet. Sandalwood and patchouli meet vanilla and a milky note.",
+    "notes": "Fragrance notes",
+    "sandalwood": "Sandalwood",
+    "vanilla": "Vanilla",
+    "patchouli": "Patchouli",
+    "milk": "Milk",
+    "alt": "The Origin No. 1 fragrance sachet on a dark surface",
+    "notesAlt": "Sandalwood, vanilla flowers and other fragrance materials arranged on black"
+  },
+  "world": {
+    "title": "The World of <brand>MESME</brand>",
+    "portrait": "A woman holds the Diamond Bear by its chain",
+    "sand": "The gold Diamond Bear on a sculpted sand surface",
+    "studio": "Gold Diamond Bear standing against a deep red studio backdrop"
+  },
+  "concierge": {
+    "title": "Private Concierge",
+    "intro": "Speak with MESME about the Diamond Bear, fragrance or a bespoke consultation.",
+    "productIntro": "Speak with MESME about <piece>{name}</piece>.",
+    "bespokeIntro": "Speak with MESME about personalising your Diamond Bear.",
+    "body": "The enquiry form opens on the MESME website in English. Mention the piece or service you would like to discuss.",
+    "cta": "Open the MESME enquiry form",
+    "back": "Back to MESME"
+  },
+  "footer": {
+    "copyright": "© {year} MESME"
+  }
+}
